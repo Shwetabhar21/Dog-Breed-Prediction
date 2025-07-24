@@ -1,4 +1,4 @@
- 🐶 Dog Breed Prediction
+## 🐶 Dog Breed Prediction
 
 A deep learning project to classify dog breeds from images using TensorFlow/Keras.
 
