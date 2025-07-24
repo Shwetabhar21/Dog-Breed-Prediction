@@ -4,7 +4,7 @@ A deep learning project to classify dog breeds from images using TensorFlow/Kera
 
 ## Features
 - Image classification using CNN
-- Trained on TechVidvan dog breed dataset
+- Trained on dog breed dataset
 - Model achieves high accuracy on validation data
 - Simple and customizable architecture
 
